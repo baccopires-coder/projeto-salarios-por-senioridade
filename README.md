@@ -1,8 +1,8 @@
 # 📊 Quanto vale uma carreira em dados?
 
-**Salários por área, região e senioridade no Brasil (State of Data 2025-2026)**
+**Salários por área, região e seniorida no Brasil (State of Data 2025-2026)**
 
-Dashboard interativo em Streamlit que explora a remuneração de profissionais de dados no Brasil é um Projeto desenvolvido no programa **Códigos do Amanhã 2026** (Ebanx em parceria com a How Bootcamps). A partir dos microdados da pesquisa **State of Data Brazil 2025-2026**. 
+Este é um Projeto desenvolvido no programa **Códigos do Amanhã 2026** (Ebanx em parceria com a How Bootcamps). Dashboard interativo em Streamlit que explora a renda dos profissionais da área da tecnologia no Brasil, a partir dos microdados da pesquisa **State of Data Brazil 2025-2026**. 
 
 🔗 **App publicado:** `https://projeto-salarios-por-senioridade-sjpzwqwtfs4vujbg7o9pgx.streamlit.app/`
 
@@ -12,13 +12,13 @@ Dashboard interativo em Streamlit que explora a remuneração de profissionais d
 
 ### Problema
 
-> Como a remuneração de profissionais de dados no Brasil varia conforme a área de atuação, a região e a senioridade? Qual desses três fatores pesa mais?
+> Como a remuneração de profissionais de dados no Brasil varia conforme a área de atuação, a região e o tempo de experiência? Qual desses três fatores pesa mais?
 
 ### Perguntas norteadoras
 
-1. Qual é a distribuição de faixas salariais para cada cargo e nível (Júnior, Pleno, Sênior, Especialista/Staff+ e Gestão)?
+1. Qual é a distribuição de faixas salariais para cada setor e nível (Júnior, Pleno, Sênior, Especialista/Staff+ e Gestão)?
 2. A região onde a pessoa mora altera o salário típico, ou apenas a chance de chegar às faixas mais altas?
-3. No mesmo nível, quanto os cargos de análise/BI se distanciam dos cargos de ciência, engenharia de dados e ML?
+3. No mesmo nível, quanto as posições de análise e BI se distanciam das de ciência, engenharia de dados e ML?
 
 ### Para quem é
 
